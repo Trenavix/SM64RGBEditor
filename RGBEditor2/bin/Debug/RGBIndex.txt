@@ -1,0 +1,31 @@
+Transparent Red [!] Box
+00aa64dc
+y
+00aa64d4
+y
+00aa675b
+RRGGBB
+
+Transparent Green [!] Box
+00aa64f4
+y
+00aa64ec
+y
+n
+bbbbbb
+
+Transparent Blue [!] Box
+00aa650c
+y
+00aa6504
+y
+n
+RRGGBB
+
+Transparent Yellow [!] Box
+00aa6524
+y
+00aa651c
+y
+n
+RRGGBB

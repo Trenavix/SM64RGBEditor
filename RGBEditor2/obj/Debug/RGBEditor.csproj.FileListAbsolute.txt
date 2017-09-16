@@ -1,0 +1,15 @@
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RGBEditor.csprojResolveAssemblyReference.cache
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RGBEditor.resources
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RGBEditor.csproj.GenerateResource.Cache
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SM64_RGB_Editor.exe.config
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SM64_RGB_Editor.exe
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SM64_RGB_Editor.pdb
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SM64_RGB_Editor.Properties.Resources.resources
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SM64_RGB_Editor.exe
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SM64_RGB_Editor.pdb
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SM64_RGB_Editor.exe.manifest
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SM64_RGB_Editor.application
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SM64_RGB_Editor.TrustInfo.xml
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SM64_RGB_Editor.exe.manifest
+C:\Users\Trent\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SM64_RGB_Editor.application
+C:\Users\Trent\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RGBEditor.csproj.CoreCompileInputs.cache
